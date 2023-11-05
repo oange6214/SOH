@@ -1,0 +1,11 @@
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\bin\Debug\net7.0\SohatNotebook.Entities.deps.json
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\bin\Debug\net7.0\SohatNotebook.Entities.dll
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\bin\Debug\net7.0\SohatNotebook.Entities.pdb
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.AssemblyInfoInputs.cache
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.AssemblyInfo.cs
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.csproj.CoreCompileInputs.cache
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.dll
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\refint\SohatNotebook.Entities.dll
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\SohatNotebook.Entities.pdb
+D:\Workspaces\Devolops\WebAPI\SOH\SohatNotebook.Entities\obj\Debug\net7.0\ref\SohatNotebook.Entities.dll

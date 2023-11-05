@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eHdYVKRQodgMI18ulwLHvUdyBnNqN2WY4dveUfMKuMk=",
+  "Source": "SohatNotebook.Api",
+  "BasePath": "_content/SohatNotebook.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
